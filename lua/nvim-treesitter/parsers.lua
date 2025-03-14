@@ -2243,11 +2243,11 @@ list.superhtml = {
 
 list.surface = {
   install_info = {
-    url = "https://github.com/connorlay/tree-sitter-surface",
+    url = "https://github.com/msaraiva/tree-sitter-surface",
     files = { "src/parser.c" },
   },
   filetype = "sface",
-  maintainers = { "@connorlay" },
+  maintainers = { "@msaraiva" },
 }
 
 list.svelte = {
